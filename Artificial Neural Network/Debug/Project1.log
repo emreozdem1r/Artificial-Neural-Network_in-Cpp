@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\Emre\source\repos\Project1\Project1\Dot.h(36,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(318,98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(318,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(321,99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(321,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(325,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(326,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(334,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(333,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(339,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(342,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(481,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emre\source\repos\Project1\Project1\MyForm.h(531,62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\Emre\source\repos\Project1\Debug\Project1.exe
